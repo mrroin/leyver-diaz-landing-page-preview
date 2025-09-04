@@ -1,0 +1,9 @@
+1.- Cambiar carpeta _next a _next
+2.- buscar /_next/static/css y cambiar a ./next/static/css
+3.- buscar /_next/static/chunks y cambiar a ./next/static/chunks
+4.- buscar /_next/static/ y cambiar a ./next/static/
+5.- buscar "/_next/" y cambiar a "./next/"
+6.- buscar /assets/images/facebook.png y cambiar a ./assets/images/facebook.png
+7.- cambiar ./assets/images/facebook.png a /leyver-diaz-landing-page-preview/assets/images/facebook.png
+8.- cambiar "./next/" a "/leyver-diaz-landing-page-preview/next/"
+8.- cambiar ./next/static/ a /leyver-diaz-landing-page-preview/next/static/
