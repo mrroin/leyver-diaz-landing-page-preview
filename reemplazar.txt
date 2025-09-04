@@ -6,4 +6,6 @@
 6.- buscar /assets/images/facebook.png y cambiar a ./assets/images/facebook.png
 7.- cambiar ./assets/images/facebook.png a /leyver-diaz-landing-page-preview/assets/images/facebook.png
 8.- cambiar "./next/" a "/leyver-diaz-landing-page-preview/next/"
-8.- cambiar ./next/static/ a /leyver-diaz-landing-page-preview/next/static/
+9.- cambiar ./next/static/ a /leyver-diaz-landing-page-preview/next/static/
+10.- cambiar nombre file _buildManifest.js a buildManifest.js
+11.- cambiar nombre file _ssgManifest.js a ssgManifest.js
